@@ -47,7 +47,7 @@ Make sure you have the following installed before running the project:
 <br>
 
 ## 🖥️ Preview
-<p align="center"><img src="webPreview.jpg" width="700"></p>
+<p align="center"><img src="webPreview.png" width="700"></p>
 <br>
 
 ## 📜 License
